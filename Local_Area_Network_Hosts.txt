@@ -1,6 +1,6 @@
-Local_Area_Network_Hosts
------ ----- ----- ----- -----
-Local_Area_Network_Hosts
+
+# Local_Area_Network_Hosts Start
+
 192.168.31.80 wzsndgk.asia
 192.168.31.80 www.wzsndgk.asia
 192.168.31.80 ai.wzsndgk.asia
@@ -51,6 +51,7 @@ Local_Area_Network_Hosts
 192.168.31.80 player.wzsndgk.asia
 192.168.31.80 download.wzsndgk.asia
 192.168.31.80 gravatar.wzsndgk.asia
-Local_Area_Network_Hosts
------ ----- ----- ----- -----
-Local_Area_Network_Hosts
+
+# Update url: https://raw.github.ink/wlc743859910/Local_Area_Network_Hosts/master/Local_Area_Network_Hosts.txt
+# Star me: https://github.ink/wlc743859910/Local_Area_Network_Hosts/
+# Local_Area_Network_Hosts End
