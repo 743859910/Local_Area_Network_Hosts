@@ -2,25 +2,25 @@
 
 ---
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Local_Area_Network_Hosts/img/gh-readme-header.webp">
-</h1>
+</p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Local_Area_Network_Hosts/img/template.webp">
-</h1>
+</p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Local_Area_Network_Hosts/img/1424469275.webp">
-</h1>
+</p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Local_Area_Network_Hosts/img/fbCScVCQ.webp">
-</h1>
+</p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Local_Area_Network_Hosts/img/programmer.webp">
-</h1>
+</p>
 
 ---
 
