@@ -2,10 +2,6 @@
 
 ---
 
-Local_Area_Network_Hosts
-
----
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Local_Area_Network_Hosts/img/gh-readme-header.webp">
 </p>
