@@ -2,38 +2,33 @@
 
 ---
 
-Local_Area_Network_Hosts
-https://github.com/wlc743859910/Local_Area_Network_Hosts
-链接1：https://cdn.jsdelivr.net/gh/wlc743859910/Local_Area_Network_Hosts/Local_Area_Network_Hosts.txt
-链接2：https://raw.github.ink/wlc743859910/Local_Area_Network_Hosts/master/Local_Area_Network_Hosts.txt
-链接3：https://gcore.jsdelivr.net/gh/wlc743859910/Local_Area_Network_Hosts/Local_Area_Network_Hosts.txt
-链接4：https://github.com/wlc743859910/Local_Area_Network_Hosts/blob/master/Local_Area_Network_Hosts.txt
-链接5：https://fastly.jsdelivr.net/gh/wlc743859910/Local_Area_Network_Hosts/Local_Area_Network_Hosts.txt
-链接6：https://testingcf.jsdelivr.net/gh/wlc743859910/Local_Area_Network_Hosts/Local_Area_Network_Hosts.txt
-链接7：https://originfastly.jsdelivr.net/gh/wlc743859910/Local_Area_Network_Hosts/Local_Area_Network_Hosts.txt
-链接8：https://raw.githubusercontent.com/wlc743859910/Local_Area_Network_Hosts/master/Local_Area_Network_Hosts.txt
-链接9：https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlc743859910/Local_Area_Network_Hosts/master/Local_Area_Network_Hosts.txt
+| 仓库链接 | [Local_Area_Network_Hosts](https://github.com/wlc743859910/Local_Area_Network_Hosts) |
+| :------: | :----------------------------------------------------------: |
+| 加速链接 | [Local_Area_Network_Hosts.txt](https://raw.github.ink/wlc743859910/Local_Area_Network_Hosts/master/Local_Area_Network_Hosts.txt) |
+| 原始链接 | [Local_Area_Network_Hosts.txt](https://github.com/wlc743859910/Local_Area_Network_Hosts/blob/master/Local_Area_Network_Hosts.txt) |
+| 原始链接 | [Local_Area_Network_Hosts.txt](https://raw.githubusercontent.com/wlc743859910/Local_Area_Network_Hosts/master/Local_Area_Network_Hosts.txt) |
+| 加速链接 | [Local_Area_Network_Hosts.txt](https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlc743859910/Local_Area_Network_Hosts/master/Local_Area_Network_Hosts.txt) |
 
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Local_Area_Network_Hosts/img/1.webp">
+  <img src="https://raw.github.ink/wlc743859910/Local_Area_Network_Hosts/master/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Local_Area_Network_Hosts/img/2.webp">
+  <img src="https://raw.github.ink/wlc743859910/Local_Area_Network_Hosts/master/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Local_Area_Network_Hosts/img/3.webp">
+  <img src="https://raw.github.ink/wlc743859910/Local_Area_Network_Hosts/master/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Local_Area_Network_Hosts/img/4.webp">
+  <img src="https://raw.github.ink/wlc743859910/Local_Area_Network_Hosts/master/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Local_Area_Network_Hosts/img/5.webp">
+  <img src="https://raw.github.ink/wlc743859910/Local_Area_Network_Hosts/master/img/5.webp">
 </p>
 
 ---
