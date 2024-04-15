@@ -2,7 +2,7 @@
 
 ---
 
-<div align="center"><img src="https://raw.gitmirror.com/wlc743859910/Local_Area_Network_Hosts\master/img\logo.webp" alt="Via Logo" height="100"/></div>
+<div align="center"><img src="https://hub.gitmirror.com/https://github.com/wlc743859910/Local_Area_Network_Hosts/blob/master/img/logo.webp" alt="Hosts Logo" height="100"/></div>
 
 ---
 
