@@ -51,6 +51,6 @@
 192.168.31.80 download.wzsndgk.asia
 192.168.31.80 gravatar.wzsndgk.asia
 
-# Update url: https://raw.gitmirror.com/wlc743859910/Local_Area_Network_Hosts/master/Local_Area_Network_Hosts.txt
-# Star me: https://github.com/wlc743859910/Local_Area_Network_Hosts
+# Update url: https://raw.gitmirror.com/743859910/Local_Area_Network_Hosts/master/Local_Area_Network_Hosts.txt
+# Star me: https://github.com/743859910/Local_Area_Network_Hosts
 # Local_Area_Network_Hosts End
